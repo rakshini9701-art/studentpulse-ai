@@ -1,0 +1,4 @@
+__pycache__/
+models/
+data/users.json
+data/access_log.csv
