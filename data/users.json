@@ -1,0 +1,20 @@
+{
+  "staff": {
+    "name": "Faculty Mentor",
+    "role": "staff",
+    "salt": "32ab7a52604fcc99f88e3e8ed4e3b70f",
+    "hash": "c7a495d39e144f84ea78c7ed088da5e5311ffc0456251adf432a2804da4af61c"
+  },
+  "hod": {
+    "name": "Head of Department",
+    "role": "management",
+    "salt": "edecf519451fb9e63316abaf5df0516d",
+    "hash": "5c26dff14d3ed9ce943fbd4b2afa49563bf9fb57cfc2789089eb905cc1bff66b"
+  },
+  "principal": {
+    "name": "Principal",
+    "role": "management",
+    "salt": "15a3782f46f979b0b579ddf6f7c8177a",
+    "hash": "5b2e37ded625c21cd8227203a525d8657d0196692570e82ad47726a736039a77"
+  }
+}
